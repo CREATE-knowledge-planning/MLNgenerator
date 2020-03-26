@@ -1,0 +1,1 @@
+MATCH (s:Sensor)-[r]-(p:Platform) RETURN r;

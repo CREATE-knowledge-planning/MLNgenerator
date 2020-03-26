@@ -1,0 +1,1 @@
+1 HOSTS(plat,sens) <=> IS_HOSTED_BY(sense,plat)
